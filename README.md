@@ -8,7 +8,7 @@ We present baseline results of four SOTA vocal melody transcription models on bo
 
 <table>
   <tr>
-    <td rowspan="2" style="text-align: center; vertical-align: middle;">Model</td>
+    <td rowspan="2">Model</td>
     <td colspan="3">Valid Set</td>
     <td colspan="3">Test Set</td>
   </tr>
