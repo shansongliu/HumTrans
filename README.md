@@ -44,7 +44,7 @@ We present baseline results of four SOTA vocal melody transcription models on bo
     <td>6.448</td>
     <td>6.341</td>
     <td>5.686</td>
-    <td>5.853</td>
+    <td><strong>5.853</strong></td>
     <td>5.755</td>
   </tr> 
   <tr>
