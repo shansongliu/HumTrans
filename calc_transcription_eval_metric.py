@@ -4,7 +4,6 @@ import copy
 import mir_eval
 import numpy as np
 import pretty_midi
-# from music21 import converter, note
 from tqdm import tqdm
 
 
