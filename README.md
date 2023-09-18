@@ -57,3 +57,9 @@ We present baseline results of four SOTA vocal melody transcription models on bo
     <td>5.667</td>
   </tr> 
 </table>
+
+# Script Example Usage
+```
+python calc_transcription_eval_metric.py valid_keys.txt midis/GroundTruth/valid midis/VOCANO/valid
+```
+The `valid_keys.txt` contains a list of name keys of the validation set, `midis/GroundTruth/valid` is the reference MIDI folder, and `midis/VOCANO/valid` is the predicted MIDI folder.
