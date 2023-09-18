@@ -13,11 +13,20 @@ We present baseline results of four SOTA vocal melody transcription models on bo
     <td colspan="3">Test Set</td>
   </tr>
   <tr>
-    <td>P</td>
-    <td>R</td>
+    <td>Precison</td>
+    <td>Recall</td>
     <td>F1</td>
-    <td>P</td>
-    <td>R</td>
+    <td>Precison</td>
+    <td>Recall</td>
     <td>F1</td>
   </tr>
+  <tr>
+    <td>VOCANO</td>
+    <td>3.270</td>
+    <td>3.314</td>
+    <td>3.194</td>
+    <td>3.384</td>
+    <td>3.329</td>
+    <td>3.352</td>
+  </tr> 
 </table>
