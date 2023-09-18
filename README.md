@@ -29,4 +29,31 @@ We present baseline results of four SOTA vocal melody transcription models on bo
     <td>3.329</td>
     <td>3.352</td>
   </tr> 
+  <tr>
+    <td>Sheet Sage</td>
+    <td>2.757</td>
+    <td>2.656</td>
+    <td>2.702</td>
+    <td>3.039</td>
+    <td>2.982</td>
+    <td>3.005</td>
+  </tr> 
+  <tr>
+    <td>MIR-ST500</td>
+    <td>6.258</td>
+    <td>6.448</td>
+    <td>6.341</td>
+    <td>5.686</td>
+    <td>5.853</td>
+    <td>5.755</td>
+  </tr> 
+  <tr>
+    <td>JDC-STP</td>
+    <td>6.777</td>
+    <td>6.785</td>
+    <td>6.741</td>
+    <td>5.844</td>
+    <td>5.620</td>
+    <td>5.667</td>
+  </tr> 
 </table>
