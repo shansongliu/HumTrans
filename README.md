@@ -45,14 +45,14 @@ We present baseline results of four SOTA vocal melody transcription models on bo
     <td>6.341</td>
     <td>5.686</td>
     <td><strong>5.853</strong></td>
-    <td>5.755</td>
+    <td><strong>5.755</strong></td>
   </tr> 
   <tr>
     <td>JDC-STP</td>
-    <td>6.777</td>
-    <td>6.785</td>
-    <td>6.741</td>
-    <td>5.844</td>
+    <td><strong>6.777</strong></td>
+    <td><strong>6.785</strong></td>
+    <td><strong>6.741</strong></td>
+    <td><strong>5.844</strong></td>
     <td>5.620</td>
     <td>5.667</td>
   </tr> 
